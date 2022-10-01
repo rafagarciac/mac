@@ -1,14 +1,17 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Rafael",
       "surnames": "García Cuéllar",
-      "description": "Buenas ! Soy Rafael García, actualmente trabajo como Ingeniero de Software (Full-Remote) con +3 años de experiencia, actualmente ofrezco mis servicio a la primera CDN de origen español. Mis actividades diarias comprenden desde el desarrollo principal de varias aplicaciones, API's, Front-End, Microservicios, DevOps, despliegues entre muchas otras cosas, hasta Linux, Control de Versiones, Bases de Datos, Tecnologías móviles etc... Utilizando las últimas tecnologías (Python, DJango, Javascript, ReactJS, Java, C#, Hybrid Application...) y últimos estándares junto con buenas prácticas como (SOLID, KISS, TDD...). Soy un todoterreno !!\n\nPor otro lado, me encanta viajar aunque no teng a todo el tiempo disponible para ello :) soy muy proactivo, creativo, trabajador, responsable y tengo siempre una actitud muy positiva frente a los problemas (SIEMPRE SE SOLUCIONAN) !"
+      "description": "Buenas ! Soy Rafael García, actualmente trabajo como Ingeniero de Software (Full-Remote) con +3 años de experiencia, actualmente ofrezco mis servicio a la primera CDN de origen español. Mis actividades diarias comprenden desde el desarrollo principal de varias aplicaciones, API's, Front-End, Microservicios, DevOps, despliegues entre muchas otras cosas, hasta Linux, Control de Versiones, Bases de Datos, Tecnologías móviles etc... Utilizando las últimas tecnologías (Python, DJango, Javascript, ReactJS, Java, C#, Hybrid Application...) y últimos estándares junto con buenas prácticas como (SOLID, KISS, TDD...). Soy un todoterreno !!\n\nPor otro lado, me encanta viajar aunque no teng a todo el tiempo disponible para ello :) soy muy proactivo, creativo, trabajador, responsable y tengo siempre una actitud muy positiva frente a los problemas (SIEMPRE SE SOLUCIONAN) !",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
     },
     "relevantLinks": [
       {
@@ -35,6 +38,132 @@
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Razor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Xamarin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Python",
@@ -85,30 +214,6 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "C#",
           "type": "technology"
         }
@@ -116,12 +221,6 @@
       {
         "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "iOS",
           "type": "technology"
         }
       },
@@ -151,6 +250,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MariaDB",
           "type": "technology"
         }
@@ -163,91 +268,7 @@
       },
       {
         "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Razor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SOAP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
+          "name": "Apple iOS",
           "type": "technology"
         }
       },
@@ -259,25 +280,7 @@
       },
       {
         "skill": {
-          "name": "Microsoft Access",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Xamarin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
           "type": "technology"
         }
       },
@@ -320,6 +323,15 @@
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/rafael-gc/"
         }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Software Architect",
+        "Tech Lead",
+        "VP of Engineering"
       ]
     }
   }
