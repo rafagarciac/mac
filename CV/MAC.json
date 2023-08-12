@@ -146,23 +146,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Inditex"
-        },
-        "roles": [
-          {
-            "name": "Salesman",
-            "startDate": "2016-08-01",
-            "finishDate": "2017-07-31",
-            "challenges": [
-              {
-                "description": "I have worked in Stradivarius and Pull & Bear.\n▪ My function was to profile, manage and organize the clothing of the store.\n▪ I was also in charge of providing the best customer service.\n▪ Besides, I took out all kinds of clothes, accessories ... from the store to the clients."
-              }
-            ]
-          }
-        ]
       }
     ]
   },
