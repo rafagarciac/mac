@@ -129,23 +129,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Amazon"
-        },
-        "roles": [
-          {
-            "name": "Warehouse Worker",
-            "startDate": "2017-07-01",
-            "finishDate": "2017-10-31",
-            "challenges": [
-              {
-                "description": "▪ I was responsible for the storage, reception, relocation of the wares and also, the preparation of the\norders by selecting FR and its later packaging.\n▪ Another of my functions was Picking in the FC (Central Floor)"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
