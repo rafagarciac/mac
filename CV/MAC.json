@@ -464,6 +464,12 @@
       },
       {
         "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Team management",
           "type": "practice"
         }
