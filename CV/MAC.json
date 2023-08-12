@@ -9,7 +9,13 @@
       "name": "Rafael",
       "surnames": "García Cuéllar",
       "title": "Senior Software Engineer",
-      "description": "TBD"
+      "description": "TBD",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJC-ZpxthLQg0RIxeyVBTrVQU)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Alcalá de Henares"
+      }
     },
     "relevantLinks": [
       {
