@@ -8,13 +8,151 @@
     "profile": {
       "name": "Rafael",
       "surnames": "García Cuéllar",
-      "title": "Title",
-      "description": "Buenas ! Soy Rafael García, actualmente trabajo como Ingeniero de Software (Full-Remote) con +3 años de experiencia, actualmente ofrezco mis servicio a la primera CDN de origen español. Mis actividades diarias comprenden desde el desarrollo principal de varias aplicaciones, API's, Front-End, Microservicios, DevOps, despliegues entre muchas otras cosas, hasta Linux, Control de Versiones, Bases de Datos, Tecnologías móviles etc... Utilizando las últimas tecnologías (Python, DJango, Javascript, ReactJS, Java, C#, Hybrid Application...) y últimos estándares junto con buenas prácticas como (SOLID, KISS, TDD...). Soy un todoterreno !!\n\nPor otro lado, me encanta viajar aunque no teng a todo el tiempo disponible para ello :) soy muy proactivo, creativo, trabajador, responsable y tengo siempre una actitud muy positiva frente a los problemas (SIEMPRE SE SOLUCIONAN) !"
+      "title": "Senior Software Engineer",
+      "description": "TBD"
     },
     "relevantLinks": [
       {
         "type": "other",
         "URL": "https://rafaelgc.com/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Making Science"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Skills: Communication · Code Review · Back-End Web Development"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Qaleon"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Software Engineer",
+            "startDate": "2020-03-01",
+            "finishDate": "2021-03-31",
+            "challenges": [
+              {
+                "description": "▪ Creation, design, conceptualization, implementation of software architecture for digital products & projects from different fields with a strong foundation of Machine learning, NLP (Natual Language Processing) AI, Big Data, Analytics, Performance & Optimization. \n▪ Day-to-day tasks: Software engineering, code review, releases, deployments, documentation, being responsible for the maintenance, development or correction of stable production applications, techincal interviews, >3 technical people in charge, small teams, technical leading.\n▪ Back-End: Python 3.x, Django 2.x/3.x, Django Rest Framework (DRF), Pytest, Factory Boy, Faker, Virtualenvs, Flask, FastAPI, Whitenoise, WSGI, ASGI, Gunicorn, Celery, Jupyter Notebook, Swagger API, Redocs. \n▪ Front-End: Javascript, Typescript, VueJS, Vuex (template), Vuesax, Vuetify, Webpack, Babel, Jest, CSS, Sass.\n▪ DevOps: Docker, Docker-Swarm, Kubernetes, Ansible, Terraform, GitLab CI/CD, GitLab Pipelines.\n▪ Database: PostgreSQL, MySQL, SQLite, other non-relational databases, taking care of every instance of DBMS administration, updates, creation of roles, users, groups, schemas, databases and everything related.\n▪ Search engine: Elasticsearch, Solr.\n▪ Products:\n ▪ Alizia - https://qaleon.com/alizia/\n ▪ Qalify - https://qaleon.com/qalify/\n ▪ Qanto - https://qaleon.com/qanto/\n ▪ Qalify - https://qaleon.com/qalify/\n ▪ QeKiero - https://qaleon.com/qekiero/\n ▪ iQal - https://qaleon.com/iqal/\n ▪ Innoapp - https://qaleon.com/innoapp/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Transparent CDN"
+        },
+        "roles": [
+          {
+            "name": "Full-Remote Software Engineer",
+            "startDate": "2018-11-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "▪ Leading CDN Spanish market focusing on Speed, Performance and Security.\n▪ Python2.7/3.7, Django 1.11/2.2, Django Rest Framework, Open API, Swagger, Redocs, Sentry.\n▪ Working with Git (Control Version) under Gitflow standard and Semver for API versions & tags.\n▪ DevOps: Docker, Kubernetes, Ansible, GitLab CI/CD, Monitoring & Logging.\n▪ GCP (Google Cloud Platform) Professional Data Engineer Certification course (Linux Academy). \n▪ Data Science Reports generating project in order to predict future requests load in CDN infrastructure of our clients using IPython, Pandas, Numpy, Matplotlib & Scikit-Learn. \n▪ Testing TransparentCDN API using Pytest, Coverage, BDD, Factory Boy, Faker and other third-party pytest plugins in order to optimize, multi-processing tests and improve functionality !\n▪ Celery Tasks using RabbitMQ as Broker to generate Distributed Tasks Queue.\n▪ Migration ELK environment from v1 to latest version v7.x using ElasticSearch, Kibana, Logstash...\n▪ Benchmarking, Profiling, Optimization Requests, SFTP, SSH, Server Configuration.\n▪ Front-End tech-stack using VueJS, Vuex, Quasar..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Golden Soft"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "▪ Migrate a huge application based on Payroll, Accounting, Billing, Purchases, Sales, CRM... from Visual Basic 6 // C# (.NET technologies) to AngularJS. Also, I performed advanced and custom SQL queries to the users.\n▪ My second duty was fix, improved and upgraded the existing software."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abastores"
+        },
+        "roles": [
+          {
+            "name": "Chief Technology Officer (CTO)",
+            "startDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "Skills: Communication · Code Review · Back-End Web Development"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Advansys Ecommerce Solutions"
+        },
+        "roles": [
+          {
+            "name": "Software Developer Dev-Ops",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "▪ Web Applications Development, as CMS, e-commerce using latest technologies like: .NET, Razor, C# & SQL Server as Database.\n▪ Front-End: HTML5, CSS3,JavaScript Libraries & Plugins: JQuery, JQueryUI.\n▪ Frameworks & Libraries used: Bootstrap 4.0, Chart.JS, Dragster, CodeMirror... Also, an integral development of WebPages.\n▪ Creation of Interactive Platforms using RestFul APIs & perform of Reports and Documentation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Amazon"
+        },
+        "roles": [
+          {
+            "name": "Warehouse Worker",
+            "startDate": "2017-07-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "▪ I was responsible for the storage, reception, relocation of the wares and also, the preparation of the\norders by selecting FR and its later packaging.\n▪ Another of my functions was Picking in the FC (Central Floor)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inditex"
+        },
+        "roles": [
+          {
+            "name": "Salesman",
+            "startDate": "2016-08-01",
+            "finishDate": "2017-07-31",
+            "challenges": [
+              {
+                "description": "I have worked in Stradivarius and Pull & Bear.\n▪ My function was to profile, manage and organize the clothing of the store.\n▪ I was also in charge of providing the best customer service.\n▪ Besides, I took out all kinds of clothes, accessories ... from the store to the clients."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
