@@ -464,8 +464,16 @@
           "type": "linkedin"
         },
         {
+          "URL": "https://stackoverflow.com/users/9663835/r-garc%c3%ada",
+          "type": "stackoverflow"
+        },
+        {
           "URL": "https://github.com/rafagarciac",
           "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/rafael_garciac",
+          "type": "twitter"
         }
       ],
       "contactMails": [
