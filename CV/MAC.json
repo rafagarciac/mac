@@ -10,6 +10,10 @@
       "surnames": "García Cuéllar",
       "title": "Senior Software Engineer",
       "description": "TBD",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/12/38c374d7-4ad4-4807-957f-6ae385daeab8_screenshot-2022-10-0.png",
+        "alt": "Screenshot 2022-10-03 at 20.52.27.png"
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJC-ZpxthLQg0RIxeyVBTrVQU)",
         "country": "España",
