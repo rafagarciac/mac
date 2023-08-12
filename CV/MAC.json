@@ -461,6 +461,12 @@
           "name": "Analytical thinking",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
+        }
       }
     ]
   },
