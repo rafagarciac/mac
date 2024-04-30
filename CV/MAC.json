@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,22 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rafael-gc/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/rafagarciac"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rafael_garciac"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/9663835/r-garc%c3%ada"
+      },
       {
         "type": "other",
         "URL": "https://rafaelgc.com/"
@@ -136,53 +152,19 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ASP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple iOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -194,7 +176,7 @@
       },
       {
         "skill": {
-          "name": "DB2",
+          "name": "Celery",
           "type": "technology"
         }
       },
@@ -206,13 +188,13 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Firebase",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -224,61 +206,13 @@
       },
       {
         "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "IIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MariaDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Access",
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -296,19 +230,7 @@
       },
       {
         "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -326,97 +248,7 @@
       },
       {
         "skill": {
-          "name": "Razor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SOAP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Servlet",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Basic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Xamarin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -464,12 +296,6 @@
       ],
       "contactMails": [
         "r.gc@hotmail.es"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "675521946",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -484,6 +310,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Primero de todo, debería de ser un trabajo Full-Remote, es decir, remoto aunque podría platearme ir a la oficina dependiendo de la situación. Un buen ambiente de trabajo, \n más amigos que compañeros de trabajo !\nUn sueldo que se corresponda a la actividad que realizo, flexibilidad horaria, algunos perks como fruta en la oficina o desarrollo profesional real. En fin, valorar y tratar al empleado como nos gustaría que tratasen a cada uno de nosotros.",
     "goodPractices": "**Code Review Excellence**: I am dedicated to conducting thorough and constructive code reviews. This practice ensures code quality, promotes best practices, and facilitates knowledge sharing within the team.\n\n**Clear Communication**: Effective communication is paramount in software development. I prioritize clear and concise communication with team members, stakeholders, and clients to ensure project goals, requirements, and progress are well-understood.\n\n**Agile Methodology**: I am an advocate for Agile methodologies, embracing iterative development, regular feedback, and adaptability. This approach ensures flexibility, rapid delivery, and alignment with changing business needs.\n\n**Robust Back-End Development**: I am committed to crafting robust and efficient back-end solutions. My expertise in technologies such as Python, Django, and RESTful APIs ensures the creation of scalable and maintainable applications.\n\n**Continuous Integration and Continuous Deployment (CI/CD)**: I implement CI/CD pipelines using tools like GitLab CI/CD, Docker, and Kubernetes. This practice guarantees smooth and automated testing, deployment, and monitoring processes.\n\n**Version Control and Gitflow**: I adhere to version control best practices using Git and the Gitflow branching model. This approach enhances collaboration, simplifies code management, and facilitates seamless releases.\n\n**Documentation**: I emphasize comprehensive and well-maintained documentation. This ensures that code, APIs, and systems are well-documented, promoting ease of understanding, onboarding, and future maintenance.\n\n**Test-Driven Development (TDD)**: I follow TDD principles to create robust and reliable software. Writing tests before code helps identify issues early, improves code quality, and enhances overall system stability.\n\n**Security Measures**: I prioritize security throughout the development lifecycle. This includes implementing secure coding practices, conducting security audits, and staying updated on industry security standards.\n\n**Performance Optimization**: I am dedicated to optimizing application performance. This involves profiling, benchmarking, and implementing efficient algorithms to ensure fast and responsive user experiences.\n\n**Learning and Growth**: I continuously invest time in learning new technologies, tools, and industry trends. This dedication keeps me at the forefront of software engineering practices, enabling me to bring innovative solutions to projects.\n\n**Team Collaboration and Leadership**: I actively engage in cross-functional collaboration, knowledge sharing, and mentorship. My experience in technical leadership roles has equipped me with the skills to lead and inspire teams to achieve their best.\n\nBy consistently applying these best practices, I have been able to deliver high-quality software solutions, foster collaborative environments, and drive innovation in every project I undertake."
   }
